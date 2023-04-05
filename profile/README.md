@@ -9,5 +9,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=plastic)
 ![Docker](https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=plastic)
-
+## Infrastructure
 ![infrastructure](https://user-images.githubusercontent.com/126394996/229421870-3bb08359-afd6-4230-ab47-ebaaa90922e4.png)
+## CI/CD
+![ci_cd](https://user-images.githubusercontent.com/71867595/230168943-27de7434-a13c-42cf-a8a4-9ae91da02d18.png)
