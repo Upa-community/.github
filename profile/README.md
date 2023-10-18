@@ -9,6 +9,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=plastic)
 ![Docker](https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic)
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E.svg?logo=amazon-aws&style=plastic)
-## Infrastructure
+## インフラ構成
 ![infra](https://github.com/Upa-community/.github/assets/126394996/8feffe59-d6fe-44c4-9a9e-71f2d0f69bd4)
 
